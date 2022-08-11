@@ -1,2 +1,3 @@
 # git_test
-Field play git repo
+First github repo on this date(Aug 11 2022)
+Courtesy of odin
